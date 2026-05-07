@@ -28,7 +28,7 @@ This repository contains a ready-to-use portfolio website template that you can 
 
 1. Click the green **"Use this template"** button at the top of this page
 2. Select **"Create a new repository"**
-3. Name your repository (example: `my-portfolio` or `john-portfolio`)
+3. Name your repository "yourUsername.github.io" (example: `MrsMorrisPH.github.io`)
 4. Make sure it's set to **Public**
 5. Click **"Create repository"**
 
@@ -74,7 +74,7 @@ Hello! My name is Sarah Johnson. I am passionate about web design and digital ar
 3. Under "Source", select **`main`** branch
 4. Click **Save**
 5. Wait 1-2 minutes for your site to build
-6. Refresh the page - you'll see a link like: `https://yourusername.github.io/repository-name/`
+6. Refresh the page - you'll see a link like: `https://yourusername.github.io`
 
 ✅ Your portfolio is now live on the internet!
 
